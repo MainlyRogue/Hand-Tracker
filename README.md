@@ -27,7 +27,7 @@ pip install opencv-python mediapipe numpy pyautogui
 
    ```bash
    git clone https://github.com/MainlyRogue/Hand-Tracker.git
-   cd HandTracker
+   cd Hand-Tracker
    ```
 
 3. Run the script :
